@@ -19,8 +19,7 @@ function ComponentF() {
               }}
             </LanguageContext.Consumer>
           );
-        }}
-      </UserContext.Consumer> */}
+        }} 
     </div>
   );
 }
